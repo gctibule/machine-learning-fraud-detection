@@ -1,3 +1,3 @@
 # machine-learning-fraud-detection
-This solution is just an exploration of three machine learning models—Logistic Regression, Random Forest, and Convolutional Neural Networks (CNN)—in the context of fraud detection.
+This solution explores three machine learning models—Logistic Regression, Random Forest, and Convolutional Neural Networks (CNN)—in the context of fraud detection.
 The dataset of this study is the “Bank Account Fraud (BAF) Dataset Suite”, published at NeuIPS 2022. This dataset consists of six synthetic tabular datasets simulating realistic bank account fraud scenarios, encompassing one million instances and 30 realistic attributes. These attributes include demographic and financial information such as age group, employment status, and income percentage, providing a comprehensive framework for evaluating machine learning models.
